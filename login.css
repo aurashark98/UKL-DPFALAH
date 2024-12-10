@@ -1,0 +1,163 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 250px;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 250px;
+    opacity: 0.9;
+}
+
+button:hover {
+    opacity: 1;
+}
+
+#error-message {
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}
+.container {
+    text-align: left; /* Atur teks menjadi rata kiri */
+    margin-top: 100px;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%; /* Lebarkan input agar memenuhi lebar container */
+    padding: 15px;
+    margin-bottom: 22px;
+    border: none;
+    background: #f1f1f1;
+}
+label {
+    margin-bottom: 10px;
+}
+.container {
+    display: flex;
+    flex-direction: column; /* Mengatur arah elemen menjadi vertikal */
+    align-items: center; /* Memusatkan elemen secara horizontal */
+    justify-content: center; /* Memusatkan elemen secara vertikal */
+    height: 100vh; /* Mengisi seluruh tinggi viewport */
+}
+.container {
+    text-align: center;
+}
+
+.form-group {
+    display: inline-block;
+    text-align: left;
+    margin: 0 auto;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+input[type="text"],
+input[type="password"] {
+    border: 1px solid #ccc; /* Memberikan border tipis berwarna abu-abu */
+    border-radius: 5px; /* Membuat sudut input menjadi rounded */
+    padding: 10px; /* Memberikan jarak antara teks dan border */
+    box-sizing: border-box; /* Agar padding tidak menambah lebar keseluruhan elemen */
+}
+
+    /* ... (kode CSS sebelumnya) */
+
+input[type="text"]:hover,
+input[type="password"]:hover {
+    border-color: #007bff; /* Mengubah warna border saat hover */
+}
+input[type="text"],
+input[type="password"] {
+    width: 250px; /* Sesuaikan nilai lebar sesuai keinginan Anda */
+    /* ... (sisa properti CSS lainnya) */
+}
+input[type="text"],
+input[type="password"] {
+    max-width: 250px;
+    width: 100%; /* Mengisi seluruh lebar container jika containernya lebih sempit dari 250px */
+    /* ... (sisa properti CSS lainnya) */
+}
+.container {
+    /* ... (style lainnya) */
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 80%; /* Mengisi 80% lebar container */
+    max-width: 300px; /* Lebar maksimum 300px */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Untuk memusatkan elemen secara horizontal */
+}
+input[type="text"],
+input[type="password"] {
+    width: 200px; /* Sesuaikan nilai lebar sesuai keinginan Anda */
+    /* ... (sisa properti CSS lainnya) */
+}.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    box-sizing: border-box;
+}   .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 200px; /* Sesuaikan nilai lebar sesuai keinginan Anda */
+    height: 30px; /* Sesuaikan nilai tinggi sesuai keinginan Anda */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+input[type="text"] {
+    margin-bottom: 10px;
+}
+
+body {
+    background-image: url("WhatsApp\ Image\ 2024-12-09\ at\ 16.41.50_caf5d814.jpg");
+  }
+  
+/* ... (Gaya CSS yang lebih modern dan responsif) */
